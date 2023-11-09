@@ -1,0 +1,1 @@
+1, "Emil", "Emilsen", "Næstved", "4700", "10203040", 'A', tilmeldteFag
